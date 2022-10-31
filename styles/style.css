@@ -159,6 +159,7 @@ footer>p>a {
         flex-direction: row;
         padding: 0px 5rem;
         gap: 10px;
+        height: 98%;
     }
 
     .des {
@@ -194,5 +195,9 @@ footer>p>a {
         font-size: 10px;
         font-weight: 600;
         margin: auto auto 15px auto;
+    }
+
+    footer {
+        height: 2%;
     }
 }
