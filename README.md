@@ -31,7 +31,7 @@ Mobile-view:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-4dKc9NzBLL)
 - Live Site URL: [Live Site](https://deepaktech40-signup-intropage.netlify.app/)
 
 ## My process
