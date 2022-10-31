@@ -4,6 +4,8 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/199063503-4b6a470b-977f-4b44-a5a8-6a736a393bb9.jpg)
+
 ### The challenge
 
 Users should be able to:
@@ -16,10 +18,21 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop-view:
+
+![desktop-design](https://user-images.githubusercontent.com/94350356/199063582-fbf5d464-960c-4c1e-a078-ae4ad78a4075.jpg)
+
+![active-states](https://user-images.githubusercontent.com/94350356/199063634-486ae169-fd67-4bbc-952e-50c9a2a1db07.jpg)
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/199063687-5806125b-8be2-483a-b020-af6e2250a5d3.jpg)
+
+
 ### Links
 
 - Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://deepaktech40-signup-intropage.netlify.app/)
 
 ## My process
 
